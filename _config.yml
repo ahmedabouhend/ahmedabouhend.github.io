@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ahmed S. Abouhend, Ph.D."
+title                    : "Ahmed Abouhend, Ph.D."
 title_separator          : "-"
-name                     : &name "Ahmed S. Abouhend"
+name                     : &name "Ahmed Abouhend"
 description              : &description "Water and Environmental Engineering | Wastewater Treatment, Resource Recovery, and Water Reuse"
 url                      : "https://ahmedabouhend.github.io"
 baseurl                  : ""
@@ -24,19 +24,19 @@ repository               : "ahmedabouhend/ahmedabouhend.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ahmed S. Abouhend, Ph.D."
+  name             : "Ahmed Abouhend, Ph.D."
   pronouns         :
-  bio              : "Assistant Professor of Civil Engineering | Water and Wastewater Treatment, Resource Recovery, and Water Reuse"
+  bio              : "Assistant Professor of Civil Engineering | Wastewater Treatment | Resource Recovery | Water Reuse | Water Quality Monitoring"
   location         : "Laredo, Texas, USA"
   employer         : "Texas A&M International University"
   uri              :
-  email            :
+  email            : "ahmed.abouhend@tamiu.edu
 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=sYQn8AcAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
